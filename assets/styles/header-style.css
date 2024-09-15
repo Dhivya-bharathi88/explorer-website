@@ -1,0 +1,26 @@
+nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo{
+  color:rgb(125, 5, 97);
+  font-family: Caveat, cursive;
+  font-size: 30px;
+  font-weight: Bold;
+}
+.highlight{
+  color:rgb(121, 119, 119);
+}
+nav ul{
+  list-style: none;
+  font-family: inherit;
+  color:rgb(159, 7, 124);
+  font-size: 15px;
+  font-weight: bold;
+}
+nav ul li{
+  display: inline;
+  margin: 0 15px;
+  
+}
